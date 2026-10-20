@@ -1,0 +1,11 @@
+{
+  "name": "yakunex-technologies-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "check": "node --check assets/site.js"
+  },
+  "description": "Responsive multi-page corporate website for Yakunex Technologies (Pvt) Ltd"
+}
